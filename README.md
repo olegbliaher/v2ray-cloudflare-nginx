@@ -13,4 +13,4 @@ These are the relevant config-files:
 `/etc/v2ray/config.json`\
 `/etc/nginx/sites-enabled/your-domain`\
 `/etc/letsencrypt/renewal/your-domain.tld.conf`\
-`/etc/letsencrypt/renewal-hooks/post/001-restart-nginx.sh`\
+`/etc/letsencrypt/renewal-hooks/post/001-restart-nginx.sh`
